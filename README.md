@@ -89,7 +89,7 @@ i-GOFP follows a microservices architecture, where each feature module operates 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-org/i-GOFP.git
+   git clone https://github.com/ginsky254/i-GOFP.git
    cd i-GOFP
    ```
 
