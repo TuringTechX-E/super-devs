@@ -2,11 +2,11 @@ Here’s a GitHub README file for the **Integrated Government Operations and Fin
 
 ---
 
-# i-GOFP: Integrated Government Operations and Financing Platform
+# i-GOFP: Integrated Government Operations and Financing Platform Powered by DOGE
 
 Welcome to the **i-GOFP** project! This platform is designed to help African governments (and other developing regions) streamline administration, enhance transparency, and optimize public finance management through a scalable, modular, and data-driven digital system.
 
-i-GOFP combines Blockchain, AI, IoT, and Big Data analytics to create a secure, user-friendly platform that fosters efficient government operations and empowers citizens with accessible e-Government services.
+i-GOFP combines Blockchain, AI, IoT, and Big Data analytics to create a secure, user-friendly platform that fosters efficient government operations and empowers citizens with accessible e-Government services. Department of Government Efficiency
 
 ---
 
